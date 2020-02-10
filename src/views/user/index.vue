@@ -1,12 +1,10 @@
 <template>
-    <div>
-      <router-view></router-view>
-    </div>
+  <div class='container'>User</div>
 </template>
 
 <script>
 export default {
-  name: 'app'
+  name: 'user-index'
 }
 </script>
 
