@@ -28,7 +28,7 @@ export default {
     width: 100%;
     height: 100%;
     overflow: hidden;
-    padding-top: 45px;
+    padding-top: 92px;
     padding-bottom: 100px;
     box-sizing: border-box;
     &.noTop{
